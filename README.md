@@ -1,6 +1,6 @@
 # FiveM Engine Sound Pack
 ![Issues](https://img.shields.io/github/issues/SpiritsCreations/FiveM-Engine-Sound-Pack?style=for-the-badge&logo=github)
-![Car Menu](https://img.shields.io/badge/Sound%20Mods%20As%20of%20Now-86-brightgreen?style=for-the-badge)
+![Car Menu](https://img.shields.io/badge/Sound%20Mods%20As%20of%20Now-0-brightgreen?style=for-the-badge)
 ==========================
 
 ***Want any Engine Sound in here? Just make an issue with a download link and I'll get to it!***
