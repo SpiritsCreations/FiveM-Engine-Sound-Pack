@@ -20,13 +20,23 @@ Citizen.CreateThread(function()
             curVersion = LoadResourceFile(GetCurrentResourceName(), "version")
 
             if curVersion ~= responseText and tonumber(curVersion) < tonumber(responseText) then
-                print("Uh Oh! Looks like FiveM Engine Sound Pack is outdated")
-                print("Should be: "..responseText..", currently is: "..curVersion..". Please update it from https://github.com"..updatePath.."")
+                print("      _/_/_/    _/_/_/ ║                   Hey there! Yeah you, thanks for using my Audio Pack!")
+                print("   _/        _/        ║")
+                print("    _/_/    _/         ║")
+                print("       _/  _/          ║                       Uh Oh! Looks like FiveM-Engine-Sound-Pack is outdated")
+                print("_/_/_/      _/_/_/     ║ Should be: "..responseText..", currently is: "..curVersion..". Please update it from https://github.com"..updatePath.."")
             elseif tonumber(curVersion) > tonumber(responseText) then
-                print("Uh Oh! You somehow skipped a few versions of FiveM Engine Sound Pack")
-                print("or the git went offline, if it's still online I advise you to update (or downgrade?)")
+                print("      _/_/_/    _/_/_/ ║                   Hey there! Yeah you, thanks for using my Audio Pack!")
+                print("   _/        _/        ║")
+                print("    _/_/    _/         ║")
+                print("       _/  _/          ║           Uh Oh! You somehow skipped a few versions of FiveM-Engine-Sound-Pack")
+                print("_/_/_/      _/_/_/     ║  or the git went offline, if it's still online I advise you to update (or downgrade?)")
             else
-                print("It looks like FiveM Engine Sound Pack is up to date, have fun!")
+                print("      _/_/_/    _/_/_/ ║                   Hey there! Yeah you, thanks for using my Audio Pack!")
+                print("   _/        _/        ║")
+                print("    _/_/    _/         ║")
+                print("       _/  _/          ║")
+                print("_/_/_/      _/_/_/     ║             It looks like FiveM-Engine-Sound-Pack is up to date, have fun!")
             end
         end
     end
