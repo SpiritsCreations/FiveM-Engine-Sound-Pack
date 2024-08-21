@@ -78,7 +78,7 @@
 | **Chrysler 300C SRT-8 V8** | lg124srt8thndrc | ![Picture](./image/lg124srt8thndrc.webp) | Legacy_DMC | [5MODS Link](https://www.gta5-mods.com/vehicles/chrysler-300c-srt-8-v8-sound-mod-sp-add-on-fivem) | ✔️ |
 | **Bentley Bentayga Mansory V8** | lg125mnsrybently | ![Picture](./image/lg125mnsrybently.webp) | Legacy_DMC | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-bentayga-mansory-v8-sp-add-on-fivem) | ✔️ |
 | **Porsche 911 GT3RS 4.0L F6** | lg157por911 | ![Picture](./image/lg157por911.webp) | Legacy_DMC | [5MODS Link](https://www.gta5-mods.com/vehicles/pfister-911-gt3rs-4-0l-f6-sound-mod) | ✔️ |
-| **Mercedes AMG CLK GTR V12** | lg187clkgtr | ![Picture](./image/lg187clkgtr.webp) | Legacy_DMC | [5MODS Link](hhttps://www.gta5-mods.com/vehicles/mercedes-amg-clk-gtr-v12-sound-mod) | ✔️ |
+| **Mercedes AMG CLK GTR V12** | lg187clkgtr | ![Picture](./image/lg187clkgtr.webp) | Legacy_DMC | [5MODS Link](https://www.gta5-mods.com/vehicles/mercedes-amg-clk-gtr-v12-sound-mod) | ✔️ |
 | **Mazda 20B 3 Rotor** | lg188maz20b | ![Picture](./image/lg188maz20b.webp) | Legacy_DMC | [5MODS Link](https://www.gta5-mods.com/vehicles/mazda-20b-3-rotor-sound-mod-sp-add-on-fivem) | ✔️ |
 | **Ferrari 246 Dino GT V6** | lg288ferdino | ![Picture](./image/lg288ferdino.webp) | Legacy_DMC | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-246-dino-gt-v6-sound-mod-sp-add-on-fivem) | ✔️ |
 | **Volkswagen VR6 V6** | lgcy00vr6 | ![Picture](./image/lgcy00vr6.webp) | Legacy_DMC | [5MODS Link](https://www.gta5-mods.com/vehicles/volkswagen-vr6-v6-sound-mod-sp-add-on-fivem) | ✔️ |
