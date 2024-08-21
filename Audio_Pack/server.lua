@@ -9,7 +9,7 @@ end, false)
 -- Sets server list convar
 SetConvarServerInfo('tags', 'FiveM Engine Sound Pack')
 -- Setup for the version check
-updatePath = "/SpiritsCreations/FiveM-Engine-Sound-Pack/Audio Pack" -- your git user/repo path
+updatePath = "/SpiritsCreations/FiveM-Engine-Sound-Pack" -- your git user/repo path
 -- Console stuff
 Citizen.CreateThread(function()
     if GetCurrentResourceName() ~= "FiveM Engine Sound Pack" then
