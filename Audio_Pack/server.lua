@@ -7,15 +7,15 @@ RegisterCommand("changesound", function(source, args, rawCommand)
 end, false)
 
 -- Sets server list convar
-SetConvarServerInfo('tags', 'FiveM Engine Sound Pack')
+SetConvarServerInfo('tags', 'Audio_Pack')
 -- Setup for the version check
 updatePath = "/SpiritsCreations/FiveM-Engine-Sound-Pack" -- your git user/repo path
 -- Console stuff
 Citizen.CreateThread(function()
-    if GetCurrentResourceName() ~= "FiveM Engine Sound Pack" then
-        print("FiveM Engine Sound Pack Loaded.")
+    if GetCurrentResourceName() ~= "Audio_Pack" then
+        print("Please Don't Change the resource name to avoid errors.")
     end
-    if GetCurrentResourceName() == 'FiveM Engine Sound Pack' then
+    if GetCurrentResourceName() == 'Audio_Pack' then
         function checkVersion(_, responseText)
             curVersion = LoadResourceFile(GetCurrentResourceName(), "version")
 
@@ -31,5 +31,5 @@ Citizen.CreateThread(function()
         end
     end
 
-    PerformHttpRequest("https://raw.githubusercontent.com"..updatePath.."/master/version", checkVersion, "GET")
+    PerformHttpRequest("https://raw.githubusercontent.com"..updatePath.."/master/Audio_Pack/version", checkVersion, "GET")
 end)
