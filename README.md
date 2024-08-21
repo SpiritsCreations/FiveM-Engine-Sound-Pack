@@ -6,7 +6,7 @@
 
 ***Want any Engine Sound in here? Just make an issue with a download link and I'll get to it!***
 
-***To see the Engine Sound pictures Better or larger click [here](https://github.com/SpiritsCreations/FiveM-Engine-Sound-Pack/blob/master/README.md)***
+***To preview the Engine Sounds better check their original link at the side to find the preview of the audio***
 
 <center><h1>All included Sounds with pictures and audioNameHash</h1></center>
 
