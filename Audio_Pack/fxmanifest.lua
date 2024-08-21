@@ -6,10 +6,11 @@ description 'FiveM Engine Sound Pack'
 repository 'https://github.com/SpiritsCreations/FiveM-Engine-Sound-Pack'
 
 server_scripts {
-	"server.lua"
+	"server.lua",
+	"versioncheck.lua"
 }
 client_scripts {
-	"client.lua",
+	"client.lua"
 }
 
 files {
