@@ -41,5 +41,5 @@ Citizen.CreateThread(function()
         end
     end
 
-    PerformHttpRequest("https://raw.githubusercontent.com"..updatePath.."/master/Audio_Pack/version", checkVersion, "GET")
+    PerformHttpRequest("https://raw.githubusercontent.com"..updatePath.."/main/Audio_Pack/version", checkVersion, "GET")
 end)
