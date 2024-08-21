@@ -15,4 +15,4 @@
 | **Example** | Example | ![Picture](./image/Example.webp) | Example Author | [5MODS Link](https://www.gta5-mods.com) | ✔️ |
 
 ## **⚠️License**
-* If you are an Author and don't want the Engine Sound to be here on GitHub, just create an issue and pull request!
+* If you are an **Author** and don't want the Engine Sound to be here on GitHub, just create an issue and pull request!
