@@ -1,9 +1,9 @@
 fx_version 'cerulean'
 games { 'rdr3', 'gta5' }
 
-author 'Spirits Creations'
-description 'FiveM Engine Sound Pack'
-repository 'https://github.com/SpiritsCreations/FiveM-Engine-Sound-Pack'
+author 'SpiritsCreations'
+description 'FiveM Engine Audio Pack'
+repository 'https://github.com/SpiritsCreations/FiveM-Engine-Sound-Pack/Audio_Pack'
 
 server_scripts {
 	"server.lua",
