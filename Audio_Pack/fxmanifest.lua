@@ -4,6 +4,7 @@ games { 'rdr3', 'gta5' }
 author 'SpiritsCreations'
 description 'FiveM Engine Audio Pack'
 repository 'https://github.com/SpiritsCreations/FiveM-Engine-Sound-Pack/Audio_Pack'
+version '1.1'
 
 server_scripts {
 	"server.lua",
